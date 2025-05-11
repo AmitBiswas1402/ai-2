@@ -1,6 +1,6 @@
-const Gen = () => {
+const GenerateProgram = () => {
   return (
-    <div>Gen</div>
+    <div>Generate Program</div>
   )
 }
-export default Gen
+export default GenerateProgram
