@@ -154,7 +154,7 @@ const GenerateProgramPage = () => {
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold font-mono">
             <span>Generate Your </span>
-            <span className="text-primary uppercase">Fitness Program</span>
+            <span className="text-primary uppercase">Interview Practice</span>
           </h1>
           <p className="text-muted-foreground mt-2">
             Have a voice conversation with our AI assistant to create your personalized plan
@@ -208,7 +208,7 @@ const GenerateProgramPage = () => {
               </div>
 
               <h2 className="text-xl font-bold text-foreground">CodeFlex AI</h2>
-              <p className="text-sm text-muted-foreground mt-1">Fitness & Diet Coach</p>
+              <p className="text-sm text-muted-foreground mt-1">AI Interviewer</p>
 
               {/* SPEAKING INDICATOR */}
 
